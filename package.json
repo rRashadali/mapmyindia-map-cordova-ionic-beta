@@ -1,0 +1,58 @@
+{
+  "_from": "git+https://github.com/mapmyindia/mapmyindia-map-cordova-ionic-beta.git",
+  "_id": "Setter@0.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/Setter",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/mapmyindia/mapmyindia-map-cordova-ionic-beta.git",
+    "rawSpec": "https://github.com/mapmyindia/mapmyindia-map-cordova-ionic-beta.git",
+    "saveSpec": "git+https://github.com/mapmyindia/mapmyindia-map-cordova-ionic-beta.git",
+    "fetchSpec": "https://github.com/mapmyindia/mapmyindia-map-cordova-ionic-beta.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/mapmyindia/mapmyindia-map-cordova-ionic-beta.git#af60827aafd6901bfdf3064fea2127335b7ecdcc",
+  "_spec": "https://github.com/mapmyindia/mapmyindia-map-cordova-ionic-beta.git",
+  "_where": "/mnt/vol1/MyApp",
+  "author": {
+    "name": "anuj singh"
+  },
+  "bugs": {
+    "url": "https://github.com/MapmyIndia/mapmyindia-map-cordova-ionic-beta/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "mapmyindia-map-cordova-ionic-beta",
+    "platforms": [
+      "android",
+      "browser"
+    ]
+  },
+  "dependencies": {},
+  "deprecated": false,
+  "description": "MapmyIndia REST APIs plugin for Cordova/Ionic",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    }
+  ],
+  "homepage": "https://github.com/MapmyIndia/mapmyindia-map-cordova-ionic-beta#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "BSD-3-Clause",
+  "name": "Setter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MapmyIndia/mapmyindia-map-cordova-ionic-beta.git"
+  },
+  "version": "0.0.1"
+}
